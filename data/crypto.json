@@ -1,0 +1,10 @@
+{
+  "v": 1,
+  "encrypted": true,
+  "cipher": "AES-256-GCM",
+  "kdf": "PBKDF2-HMAC-SHA256",
+  "iterations": 600000,
+  "salt": "IFM/UVzIWV8YdxbcfNRB5Q==",
+  "meta_codec": "gzip",
+  "check": "ito/V7XDg48tHAe2bGoUW8EE3GUnZURpXloYrxH9J6GV0sh/rEXkzNHoX4GjmN82cuDi6DAs"
+}
